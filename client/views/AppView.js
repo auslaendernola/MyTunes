@@ -18,5 +18,5 @@ var AppView = Backbone.View.extend({
       this.libraryView.$el
     ]);
   }
-
+ 
 });

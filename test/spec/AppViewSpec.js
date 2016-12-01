@@ -1,5 +1,5 @@
 describe('AppView', function() {
-  var appView, app;
+  var appView, app; 
 
   beforeEach(function () {
     app = new AppModel({library:
